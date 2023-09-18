@@ -1,0 +1,13 @@
+CLI - 
+
+(1) bucket creation 
+    aws s3 mb s3://<unique-bucket-name>
+
+    copying content to aws bucket
+    aws s3 cp video1.mov s3://<unique-bucket-name>
+
+    objects deletion in aws
+    aws s3 rm s3://<unique-bucket-name>/<object_name>
+
+    bucket deletion in aws
+    aws s3 rb s3://<unique-bucket-name>
