@@ -1,6 +1,8 @@
 CLI - 
 
-(1) bucket creation 
+(1) Bucket 
+
+    bucket creation 
     aws s3 mb s3://<unique-bucket-name>
 
     copying content to aws bucket
