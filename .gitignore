@@ -1,0 +1,16 @@
+# basics file
+basics/
+
+# media(photos and videos)
+Amazon Rekognition/photos/
+AWS_ML_VT/Amazon Rekognition/build/
+AWS_ML_VT/Amazon Rekognition/public/
+AWS_ML_VT/Amazon Textract/raw_images/
+AWS_ML_VT/Amazon transcribe-translate/Raf01_320.mov/
+
+# csv file
+AWS_ML_VT/Amazon Comprehend/movies.csv/
+
+# templates
+AWS_ML_VT/Amazon transcribe-translate/index.html/
+

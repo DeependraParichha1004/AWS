@@ -1,0 +1,95 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Translate / Transcribe</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    </head>
+<style>
+
+</style>
+
+<body>
+    <main>
+    <div class="text-center">
+        <video controls playsinline>
+            <source src="Raf01_320.mov" type="video/mp4">
+            <p>Your browser doesn't support HTML5 video.</p>
+        </video>
+      </div>
+
+      <div class="container px-4 py-5" id="featured-3">
+        <div class="row g-4 py-5 row-cols-1 row-cols-lg-2">
+          <div class="feature col">
+            <h2>Transcription</h2>
+            <p id="transcription"></p>
+          </div>
+          <div class="feature col">
+            <h2>Translation</h2>
+            <p id="translation"></p>
+          </div>
+        </div>
+      </div>
+    </main>
+
+
+
+    <script>
+        var transcribeRequest = new XMLHttpRequest();
+        transcribeRequest.open('GET', './transcribe.json', true);
+        transcribeRequest.onload = function () {
+            if (this.status >= 200 && this.status < 400) {
+                // Success!
+                var data = JSON.parse(this.response);
+                var transcriptionNode = document.getElementById('transcription');
+
+                for (var i=0; i<data.results.items.length; i++)
+                {
+                    var element = data.results.items[i];
+                    var nextElement = (i+1<data.results.items.length) ? data.results.items[i+1] : null;
+                    var newSpan = document.createElement("span");
+                    var spanText = element.alternatives[0].content;
+                    if (nextElement && nextElement["type"] != "punctuation") {
+                        spanText += ' ';
+                    }
+                    newSpan.appendChild(document.createTextNode(spanText));
+                    newSpan.startTime = element.start_time;
+                    transcriptionNode.append(newSpan);
+
+                }
+            }
+        };
+        transcribeRequest.send();
+
+        var translateRequest = new XMLHttpRequest();
+        translateRequest.open('GET', './translated.json', true);
+        translateRequest.onload = function () {
+            if (this.status >= 200 && this.status < 400) {
+                // Success!
+                var data = JSON.parse(this.response);
+                var translationNode = document.getElementById('translation');
+                data.forEach(element => {
+                    console.log(element.translated);
+                    var newSpan = document.createElement("span");
+                    var spanText = `${element.translated} `
+                    newSpan.appendChild(document.createTextNode(spanText));
+                    newSpan.startTime = element.start_time;
+                    translationNode.append(newSpan);
+                });
+            }
+        };
+        translateRequest.send();
+
+        const video = document.querySelector('video');
+
+        video.addEventListener('timeupdate', (event) => {
+
+            document.querySelectorAll('span').forEach(element => {
+                element.style.backgroundColor =  (element.startTime && parseFloat(element.startTime) < video.currentTime) ? '#c9c9c9' : '' ;
+            });
+        });
+
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+</body>
+</html>

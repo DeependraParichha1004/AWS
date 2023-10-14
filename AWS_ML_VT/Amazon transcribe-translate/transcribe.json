@@ -1,0 +1,1483 @@
+{
+  "jobName": "Raf01_1658198538",
+  "results": {
+    "transcripts": [
+      {
+        "transcript": "placeholder, placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder. placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder, placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder, placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder, placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder. placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder, placeholder placeholder placeholder placeholder placeholder placeholder placeholder, placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder, placeholder placeholder placeholder placeholder placeholder placeholder placeholder, placeholder placeholder placeholder, placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder. placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder."
+      }
+    ],
+    "items": [
+      {
+        "start_time": "1.41",
+        "end_time": "1.82",
+        "alternatives": [
+          {
+            "confidence": "0.9932",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "2.03",
+        "end_time": "2.46",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "2.46",
+        "end_time": "2.65",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "2.65",
+        "end_time": "3.05",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "3.49",
+        "end_time": "3.76",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "3.76",
+        "end_time": "3.91",
+        "alternatives": [
+          {
+            "confidence": "0.9977",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "3.91",
+        "end_time": "4.35",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "4.35",
+        "end_time": "4.72",
+        "alternatives": [
+          {
+            "confidence": "0.9955",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "4.72",
+        "end_time": "4.96",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "4.96",
+        "end_time": "5.05",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "5.05",
+        "end_time": "5.6",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "5.6",
+        "end_time": "5.87",
+        "alternatives": [
+          {
+            "confidence": "0.9859",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "6.79",
+        "end_time": "6.87",
+        "alternatives": [
+          {
+            "confidence": "0.997",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "6.87",
+        "end_time": "6.94",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "6.94",
+        "end_time": "7.32",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "7.32",
+        "end_time": "7.95",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "7.95",
+        "end_time": "8.08",
+        "alternatives": [
+          {
+            "confidence": "0.9993",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "8.08",
+        "end_time": "8.32",
+        "alternatives": [
+          {
+            "confidence": "0.9994",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "8.32",
+        "end_time": "8.46",
+        "alternatives": [
+          {
+            "confidence": "0.731",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "8.46",
+        "end_time": "8.91",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "8.91",
+        "end_time": "9.19",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "9.19",
+        "end_time": "9.22",
+        "alternatives": [
+          {
+            "confidence": "0.9523",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "9.22",
+        "end_time": "9.29",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "9.29",
+        "end_time": "9.37",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "9.37",
+        "end_time": "9.7",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "10.09",
+        "end_time": "10.24",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "10.24",
+        "end_time": "10.4",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "10.4",
+        "end_time": "10.43",
+        "alternatives": [
+          {
+            "confidence": "0.9553",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "10.43",
+        "end_time": "10.97",
+        "alternatives": [
+          {
+            "confidence": "0.9568",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "11.18",
+        "end_time": "11.26",
+        "alternatives": [
+          {
+            "confidence": "0.8783",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "11.26",
+        "end_time": "11.34",
+        "alternatives": [
+          {
+            "confidence": "0.9449",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "11.34",
+        "end_time": "11.78",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "11.78",
+        "end_time": "11.96",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "11.96",
+        "end_time": "12.24",
+        "alternatives": [
+          {
+            "confidence": "0.9989",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "12.24",
+        "end_time": "12.41",
+        "alternatives": [
+          {
+            "confidence": "0.9935",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "12.41",
+        "end_time": "12.95",
+        "alternatives": [
+          {
+            "confidence": "0.9935",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "12.95",
+        "end_time": "13.46",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "13.46",
+        "end_time": "14.3",
+        "alternatives": [
+          {
+            "confidence": "0.9959",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "14.43",
+        "end_time": "14.7",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "14.7",
+        "end_time": "14.87",
+        "alternatives": [
+          {
+            "confidence": "0.7575",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "14.87",
+        "end_time": "15.05",
+        "alternatives": [
+          {
+            "confidence": "0.9653",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "15.05",
+        "end_time": "15.13",
+        "alternatives": [
+          {
+            "confidence": "0.9993",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "15.13",
+        "end_time": "15.33",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "15.33",
+        "end_time": "15.47",
+        "alternatives": [
+          {
+            "confidence": "0.9997",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "15.47",
+        "end_time": "16.05",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "16.74",
+        "end_time": "17.23",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "17.23",
+        "end_time": "17.3",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "17.3",
+        "end_time": "17.55",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "17.55",
+        "end_time": "17.84",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "17.84",
+        "end_time": "18.6",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "18.65",
+        "end_time": "18.88",
+        "alternatives": [
+          {
+            "confidence": "0.9979",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "18.88",
+        "end_time": "19.28",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "19.28",
+        "end_time": "19.35",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "19.35",
+        "end_time": "20.0",
+        "alternatives": [
+          {
+            "confidence": "0.9996",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "20.27",
+        "end_time": "20.73",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "20.73",
+        "end_time": "20.84",
+        "alternatives": [
+          {
+            "confidence": "0.9165",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "20.84",
+        "end_time": "21.42",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "21.42",
+        "end_time": "21.51",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "21.51",
+        "end_time": "22.13",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "22.13",
+        "end_time": "22.84",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "23.03",
+        "end_time": "23.16",
+        "alternatives": [
+          {
+            "confidence": "0.9988",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "23.16",
+        "end_time": "23.23",
+        "alternatives": [
+          {
+            "confidence": "0.9984",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "23.23",
+        "end_time": "23.56",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "23.56",
+        "end_time": "23.73",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "23.73",
+        "end_time": "24.0",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "24.0",
+        "end_time": "24.65",
+        "alternatives": [
+          {
+            "confidence": "0.9988",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "25.44",
+        "end_time": "25.65",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "25.65",
+        "end_time": "26.24",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "26.41",
+        "end_time": "26.53",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "26.53",
+        "end_time": "26.66",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "26.66",
+        "end_time": "26.95",
+        "alternatives": [
+          {
+            "confidence": "0.9945",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "26.95",
+        "end_time": "27.44",
+        "alternatives": [
+          {
+            "confidence": "0.9998",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "27.44",
+        "end_time": "27.9",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "27.9",
+        "end_time": "28.06",
+        "alternatives": [
+          {
+            "confidence": "0.9974",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "28.06",
+        "end_time": "28.16",
+        "alternatives": [
+          {
+            "confidence": "0.9966",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "28.16",
+        "end_time": "28.68",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "28.86",
+        "end_time": "29.06",
+        "alternatives": [
+          {
+            "confidence": "0.9999",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "29.06",
+        "end_time": "29.44",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "29.44",
+        "end_time": "30.25",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "30.41",
+        "end_time": "31.06",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "31.06",
+        "end_time": "31.14",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "31.14",
+        "end_time": "31.72",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "31.72",
+        "end_time": "31.85",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "31.85",
+        "end_time": "32.12",
+        "alternatives": [
+          {
+            "confidence": "0.9977",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "32.12",
+        "end_time": "32.2",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "32.2",
+        "end_time": "32.78",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "33.02",
+        "end_time": "33.92",
+        "alternatives": [
+          {
+            "confidence": "0.888",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "33.92",
+        "end_time": "34.03",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "34.03",
+        "end_time": "34.57",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "34.58",
+        "end_time": "34.77",
+        "alternatives": [
+          {
+            "confidence": "0.9977",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "34.77",
+        "end_time": "35.3",
+        "alternatives": [
+          {
+            "confidence": "0.9641",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "35.31",
+        "end_time": "35.45",
+        "alternatives": [
+          {
+            "confidence": "0.9952",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "35.45",
+        "end_time": "35.89",
+        "alternatives": [
+          {
+            "confidence": "0.9978",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "35.89",
+        "end_time": "36.42",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "36.76",
+        "end_time": "37.25",
+        "alternatives": [
+          {
+            "confidence": "0.9938",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "37.25",
+        "end_time": "37.32",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "37.32",
+        "end_time": "37.98",
+        "alternatives": [
+          {
+            "confidence": "0.9998",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "38.13",
+        "end_time": "38.19",
+        "alternatives": [
+          {
+            "confidence": "0.4566",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "38.2",
+        "end_time": "38.59",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "38.59",
+        "end_time": "38.65",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "38.65",
+        "end_time": "39.28",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "39.51",
+        "end_time": "39.96",
+        "alternatives": [
+          {
+            "confidence": "0.9878",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "39.96",
+        "end_time": "40.06",
+        "alternatives": [
+          {
+            "confidence": "0.9997",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "40.06",
+        "end_time": "40.41",
+        "alternatives": [
+          {
+            "confidence": "0.9992",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": ","
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "40.41",
+        "end_time": "40.89",
+        "alternatives": [
+          {
+            "confidence": "0.9999",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "41.1",
+        "end_time": "41.2",
+        "alternatives": [
+          {
+            "confidence": "0.9994",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "41.2",
+        "end_time": "41.51",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "41.51",
+        "end_time": "41.86",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "41.86",
+        "end_time": "41.89",
+        "alternatives": [
+          {
+            "confidence": "0.6725",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "41.89",
+        "end_time": "42.44",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "42.44",
+        "end_time": "43.04",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "43.04",
+        "end_time": "43.16",
+        "alternatives": [
+          {
+            "confidence": "0.994",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "43.16",
+        "end_time": "43.39",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "43.39",
+        "end_time": "44.08",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ],
+        "type": "punctuation"
+      },
+      {
+        "start_time": "44.54",
+        "end_time": "44.81",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "44.81",
+        "end_time": "45.18",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "45.41",
+        "end_time": "45.55",
+        "alternatives": [
+          {
+            "confidence": "0.9997",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "45.55",
+        "end_time": "46.08",
+        "alternatives": [
+          {
+            "confidence": "0.9937",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "46.46",
+        "end_time": "46.53",
+        "alternatives": [
+          {
+            "confidence": "0.998",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "46.53",
+        "end_time": "47.1",
+        "alternatives": [
+          {
+            "confidence": "0.9997",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "47.1",
+        "end_time": "47.17",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "47.17",
+        "end_time": "47.47",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "start_time": "47.47",
+        "end_time": "48.05",
+        "alternatives": [
+          {
+            "confidence": "1.0",
+            "content": "placeholder"
+          }
+        ],
+        "type": "pronunciation"
+      },
+      {
+        "alternatives": [
+          {
+            "confidence": "0.0",
+            "content": "."
+          }
+        ],
+        "type": "punctuation"
+      }
+    ]
+  },
+  "status": "COMPLETED"
+}
